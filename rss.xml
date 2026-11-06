@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monty Blog: AI Video Editing &amp; Auto-Posting</title>
+    <link>https://monty.fast/blog/</link>
+    <atom:link href="https://monty.fast/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Guides on AI video editing, auto-posting reels and turning one take into content everywhere.</description>
+    <language>en</language>
+    <item>
+      <title>Instagram Trial Reels: eligibility, reading the result, when to share</title>
+      <link>https://monty.fast/blog/instagram-trial-reels/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/instagram-trial-reels/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <description>A trial reel goes to non-followers first. Who gets the toggle in September 2026, why trial view counts look terrible, and the rule for sharing it with followers.</description>
+    </item>
+    <item>
+      <title>Background music in Reels, TikTok and Shorts without muted audio</title>
+      <link>https://monty.fast/blog/background-music-copyright/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/background-music-copyright/</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Why a business account loses trending sounds, what a Content ID claim actually does, what YouTube changed on 24 September 2026, and how to pick music that survives all four platforms.</description>
+    </item>
+    <item>
+      <title>Remove filler words, pauses and false starts without flattening your voice</title>
+      <link>https://monty.fast/blog/remove-filler-words-from-video/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/remove-filler-words-from-video/</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 GMT</pubDate>
+      <description>How automatic filler word removal actually works, exactly where it breaks speech, and the threshold and padding settings that cut ums and dead air while leaving breaths intact.</description>
+    </item>
+    <item>
+      <title>Hormozi-Style Captions: How to Make Animated Captions</title>
+      <link>https://monty.fast/blog/hormozi-style-captions/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/hormozi-style-captions/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Hormozi-style captions broken down: 1-3 words, heavy uppercase type, one accent word. 5 caption styles compared, plus steps in CapCut, Premiere, Resolve.</description>
+    </item>
+    <item>
+      <title>YouTube Shorts algorithm 2026: signals, views and fixes</title>
+      <link>https://monty.fast/blog/youtube-shorts-algorithm/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/youtube-shorts-algorithm/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
+      <description>What the Shorts feed measures, how views and engaged views are counted after 24 August 2026, and a 7-row table for diagnosing Shorts that stall.</description>
+    </item>
+    <item>
+      <title>7 Tools to Pick Your Next YouTube Video Before You Edit It</title>
+      <link>https://monty.fast/blog/tools-to-pick-your-next-youtube-video/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/tools-to-pick-your-next-youtube-video/</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Seven tools to pick your next YouTube video before you edit it, from outlier research to free demand checks, with prices and a 30-minute workflow.</description>
+    </item>
+    <item>
+      <title>Short-form video workflow for agencies: hours and pricing</title>
+      <link>https://monty.fast/blog/short-form-video-workflow-for-agencies/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/short-form-video-workflow-for-agencies/</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Eight stages per client, 1-3 editing hours per Reel, 48-72 hours per review round, a capacity table for 3 to 8 clients and 2026 retainer ranges.</description>
+    </item>
+    <item>
+      <title>Telegram Channel Video: Size Limits, Formats, Checklist</title>
+      <link>https://monty.fast/blog/telegram-channel-video/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/telegram-channel-video/</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Telegram channel video limits in one place: 2 GB files (4 GB with Premium), 1-minute video messages, 50 MB via the Bot API, plus a posting checklist.</description>
+    </item>
+    <item>
+      <title>How to talk to a camera confidently: a recording routine</title>
+      <link>https://monty.fast/blog/how-to-talk-to-camera-confidently/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/how-to-talk-to-camera-confidently/</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <description>People think twice as many others notice them as really do. A warm-up, eye line, energy and 2-3 take routine for recording yourself talking.</description>
+    </item>
+    <item>
+      <title>invideo AI alternatives: prompt-to-video or your own face</title>
+      <link>https://monty.fast/blog/invideo-alternative/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/invideo-alternative/</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate>
+      <description>invideo starts at $9 a seat; a second of Seedance 2.0 Fast video costs about 6 credits. What it does well, when footage-first wins, alternatives by job.</description>
+    </item>
+    <item>
+      <title>How to remove background noise from video: fix it in order</title>
+      <link>https://monty.fast/blog/remove-background-noise-from-video/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/remove-background-noise-from-video/</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Noise reduction, voice isolation, de-reverb and declip each break a voice differently. Real limits of 5 tools, a safe order, and YouTube's -14 LUFS.</description>
+    </item>
+    <item>
+      <title>TikTok algorithm 2026: how the For You feed picks videos</title>
+      <link>https://monty.fast/blog/tiktok-algorithm/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/tiktok-algorithm/</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate>
+      <description>The signals TikTok itself lists, a For You feed eligibility checklist, the 1-minute Creator Rewards rule and the 2025-2026 changes that matter.</description>
+    </item>
+    <item>
+      <title>How to Keep Your Videos on Brand: a Short-Video Brand Kit</title>
+      <link>https://monty.fast/blog/keep-videos-on-brand/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/keep-videos-on-brand/</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
+      <description>The 9 decisions that make short videos recognisable, what 2,015 tested ads say about logos vs style and sound, and how to hold it when many people edit.</description>
+    </item>
+    <item>
+      <title>What Is an SRT File? Format, Rules and How to Make One</title>
+      <link>https://monty.fast/blog/what-is-an-srt-file/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/what-is-an-srt-file/</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
+      <description>SRT cue anatomy, how to build a file from plain text, SRT vs VTT, Netflix's 42-character and 20 characters-per-second limits, and 9 errors to check.</description>
+    </item>
+    <item>
+      <title>Upload Reels and Shorts without losing quality: the export settings</title>
+      <link>https://monty.fast/blog/upload-reels-shorts-without-losing-quality/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/upload-reels-shorts-without-losing-quality/</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Why platforms blur your videos, the official YouTube, Instagram and TikTok specs, iPhone and Android settings, CapCut export presets and an upload checklist.</description>
+    </item>
+    <item>
+      <title>Video Editing Cost Per Minute in 2026: Rates, Hours, Math</title>
+      <link>https://monty.fast/blog/video-editing-cost-per-minute/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/video-editing-cost-per-minute/</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Per-finished-minute and hourly video editing rates from Upwork, BLS and 2026 industry guides, how many editing hours hide in one minute, and a worked monthly budget for a YouTube creator.</description>
+    </item>
+    <item>
+      <title>Instagram Reels algorithm 2026: the signals that count</title>
+      <link>https://monty.fast/blog/instagram-reels-algorithm/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/instagram-reels-algorithm/</guid>
+      <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Mosseri named 3 Reels ranking signals: watch time, likes and sends per reach. What each rewards, the April 2026 originality rule, and 4 myths to drop.</description>
+    </item>
+    <item>
+      <title>Submagic Alternatives in 2026: 8 Tools Compared</title>
+      <link>https://monty.fast/blog/submagic-alternatives/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/submagic-alternatives/</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Eight Submagic alternatives compared on captions, auto cut, b-roll, free tier and price, with figures from each tool's own pricing page in October 2026.</description>
+    </item>
+    <item>
+      <title>How to edit talking head videos: a pass-by-pass guide</title>
+      <link>https://monty.fast/blog/how-to-edit-talking-head-videos/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/how-to-edit-talking-head-videos/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Cut pauses over 0.5 seconds, change the frame about every 4 seconds, keep music 20 dB under your voice. The full edit order for talking-head shorts.</description>
+    </item>
+    <item>
+      <title>Kapwing alternative: who outgrows it and what to pick</title>
+      <link>https://monty.fast/blog/kapwing-alternative/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/kapwing-alternative/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Kapwing Pro starts at $16 a month. Who outgrows this browser editor, how it compares with Descript, OpusClip and Monty, and which tool fits which job.</description>
+    </item>
+    <item>
+      <title>How to read a teleprompter naturally: 4 tells to fix</title>
+      <link>https://monty.fast/blog/how-to-read-a-teleprompter/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/how-to-read-a-teleprompter/</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Scanning eyes, a flat voice, a speed that fights you, a lost place. The cause and fix for each tell, with a words-per-minute table and phone setups.</description>
+    </item>
+    <item>
+      <title>Faceless channel niches: the twentyfold RPM spread</title>
+      <link>https://monty.fast/blog/faceless-channel-niches/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/faceless-channel-niches/</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Finance pays $10-15 per thousand views and sleep music pays $0.50-2.50 with worse competition. Plus what YouTube's inauthentic content policy actually prohibits.</description>
+    </item>
+    <item>
+      <title>Captions in low-resource languages: the accuracy gap</title>
+      <link>https://monty.fast/blog/captions-for-low-resource-languages/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/captions-for-low-resource-languages/</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Whisper covers 99 languages. On clean English it errs on 2.7% of words; on low-resource languages that figure passes 25%. What that means for a caption workflow.</description>
+    </item>
+    <item>
+      <title>Vertical video safe zones, in pixels</title>
+      <link>https://monty.fast/blog/vertical-video-safe-zones/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/vertical-video-safe-zones/</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate>
+      <description>TikTok eats 320 pixels at the bottom, Reels 310, Shorts puts a subscribe button in the way. One 900x1400 box in the centre survives all of them.</description>
+    </item>
+    <item>
+      <title>Social video specs in 2026: one export that fits every feed</title>
+      <link>https://monty.fast/blog/social-video-specs-2026/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/social-video-specs-2026/</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Every vertical platform wants 9:16 at 1080x1920. The differences are length caps, thumbnail crops and how much of the frame the interface covers.</description>
+    </item>
+    <item>
+      <title>Reel covers and Shorts thumbnails: designed for the crop</title>
+      <link>https://monty.fast/blog/reel-cover-and-thumbnail/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/reel-cover-and-thumbnail/</guid>
+      <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Instagram crops your cover to 4:5 in the feed and 3:4 on the grid. YouTube Shorts does not accept a custom image at all. Design for both facts.</description>
+    </item>
+    <item>
+      <title>Filming reels on a phone: what matters and what does not</title>
+      <link>https://monty.fast/blog/filming-reels-on-a-phone/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/filming-reels-on-a-phone/</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <description>The phone is not the limit. Sound, light and a still frame are, and all three are close to free. What to buy first and what to skip.</description>
+    </item>
+    <item>
+      <title>OpusClip alternatives for your own short takes: 7 tools checked</title>
+      <link>https://monty.fast/blog/opusclip-alternatives-own-footage/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/opusclip-alternatives-own-footage/</guid>
+      <pubDate>Sun, 20 Sep 2026 09:00:00 GMT</pubDate>
+      <description>OpusClip now edits raw talking-head takes too. How Captions, Submagic, Descript, CapCut, Vizard, Klap and Monty handle a 60-second phone take, with prices.</description>
+    </item>
+    <item>
+      <title>Post one video to TikTok, Reels, Shorts and Telegram at once: 7 tools checked</title>
+      <link>https://monty.fast/blog/post-video-tiktok-reels-shorts-telegram/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/post-video-tiktok-reels-shorts-telegram/</guid>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Which tools publish one short video to TikTok, Reels, YouTube Shorts and Telegram in one go, which ones edit it first, and what each costs in September 2026.</description>
+    </item>
+    <item>
+      <title>Short video metrics: what to track and what to ignore</title>
+      <link>https://monty.fast/blog/short-video-metrics/</link>
+      <guid isPermaLink="true">https://monty.fast/blog/short-video-metrics/</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Views measure the algorithm's decision, not your work. The four metrics that actually drive results, the order to fix them in, and how to compare periods honestly.</description>
+    </item>
+  </channel>
+</rss>
